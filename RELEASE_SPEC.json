@@ -1,0 +1,28 @@
+{
+  "repo": "2dqm-lattice-index",
+  "codes": [
+    "N006"
+  ],
+  "commands": [
+    [
+      "python",
+      "code/run_all.py"
+    ]
+  ],
+  "check_cwd": ".",
+  "scope": "Original mathematical benchmark with archived results. Computational replay is not proof auditing, priority review or physical validation.",
+  "status": "LOCAL_CHECKS_PASS_OWNER_GATES_OPEN",
+  "source_unchanged": true,
+  "source_archive_sha256": "a61ae840720a04f483fe2e3b99d7095e4dcd53415ced6b1825e0cc6f1f27355e",
+  "owner_approval_required": true,
+  "public_uploaded": false,
+  "source_reference": "See private release registry; source hashes retained.",
+  "last_check": {
+    "repo": "2dqm-lattice-index",
+    "passed": true,
+    "scope": "Original mathematical benchmark with archived results. Computational replay is not proof auditing, priority review or physical validation.",
+    "commands": 1,
+    "readiness": "LOCAL_CHECKS_PASS_OWNER_GATES_OPEN",
+    "reason": "Declared local checks passed; scientific, rights and deployment scope remain limited."
+  }
+}

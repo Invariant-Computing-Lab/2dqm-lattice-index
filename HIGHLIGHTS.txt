@@ -1,0 +1,7 @@
+Highlights
+
+- 2DQM is reduced to quotient, topological, relational, algebraic and spectral invariants.
+- An explicit overlap index reproduces integer U(1) degree and is gauge invariant.
+- The index changes at a near-closure of the Wilson-kernel spectral gap.
+- PDG 2026 Upsilon(1S-4S) data decisively reject exact affine mass-squared spacing.
+- The failed spectral law is removed; flavor-topology correspondence remains unestablished.

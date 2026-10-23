@@ -1,0 +1,31 @@
+{
+  "seed": 20260812,
+  "pdg_edition": "2026 Review of Particle Physics; listings cut-off 2026-01-15",
+  "overlap_index_exact_match_rate": 1.0,
+  "overlap_index_max_gauge_change": 0.0,
+  "topology_transition_critical_t_grid": 0.5105,
+  "topology_transition_min_kernel_gap": 0.00016396660927985127,
+  "primary_family": "Upsilon(1S-4S)",
+  "primary_affine_chi2": 70359.15176941227,
+  "primary_affine_dof": 2,
+  "primary_affine_p_value": 0.0,
+  "primary_spacing_CV": 0.42776348069666387,
+  "Upsilon_R3": 1.616219769916978,
+  "Upsilon_R4": 2.044284857172506,
+  "linear_targets": {
+    "R3": 2.0,
+    "R4": 3.0
+  },
+  "fractional_mass2_theory_error_for_reduced_chi2_approx_1": 0.0222,
+  "final_status": {
+    "mathematical_invariant_core": "survives synthetic and explicit lattice stress tests",
+    "exact_affine_mass_squared_spectral_law": "rejected by primary PDG 2026 bottomonium test",
+    "flavor_equals_topological_degree": "not established and not claimed"
+  },
+  "fractional_intrinsic_spacing_scatter_for_reduced_chi2_approx_1": 0.384,
+  "adjacent_mass2_spacings_GeV2": [
+    10.9693794,
+    6.75954845,
+    4.69560835
+  ]
+}

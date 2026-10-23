@@ -1,0 +1,23 @@
+{
+  "seed": 20260812,
+  "lattice": {
+    "index_match_rate": 1.0,
+    "max_gauge_index_change": 0.0,
+    "critical_t_grid": 0.5105,
+    "critical_gap": 0.00016396660927985127
+  },
+  "spectrum": {
+    "chi2": 70359.15176941207,
+    "dof": 2,
+    "p_value": 0.0,
+    "spacing_CV": 0.42776348069666387,
+    "R3": 1.616219769916978,
+    "R4": 2.044284857172506,
+    "spacings_GeV2": [
+      10.96937939999998,
+      6.759548450000025,
+      4.695608349999986
+    ],
+    "intrinsic_spacing_scatter_required": 0.384
+  }
+}

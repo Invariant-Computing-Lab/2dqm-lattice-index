@@ -1,0 +1,15 @@
+quantity,class,final_evidence,decision
+"T,m separately",I0 removable,parameter redistribution quotient,DROP
+2pi standalone in M2=2pi q(N+a),I0 normalization-degenerate,spectrum identifies only product kappa=2pi q,DROP as independent
+alpha_prime,I0 derived,derived once spectral normalization fixed,DROP as independent
+q/q_ref,I1 continuous modulus,unit-quotient coordinate,RETAIN generative only
+kappa/mu_ref,I1 spectral modulus,dimensionless spectral scale,RETAIN generative only
+a=M0^2/DeltaM^2,I3 discriminant coordinate,critical locus a=0,RETAIN
+degree d,I2 topological,gauge-invariant integer; overlap index reproduces -d,RETAIN
+overlap Dirac index,I2 topological,gauge invariant; jumps only at kernel-gap closure,RETAIN
+Gamma,I2 topology/connectivity,discrete worldsheet/junction class,RETAIN
+signature(h),structural,congruence invariant,RETAIN
+normalized Gram,I1 relational,Lorentz+unit quotient,RETAIN
+oscillator algebra class,structural,basis-independent algebraic class,RETAIN
+normalized spectral fingerprint,structural/spectral,unit+basis invariant,RETAIN BUT empirical linear law rejected
+exact affine mass-squared law,falsified physical submodel,PDG 2026 Upsilon(1S-4S) primary test,REJECT

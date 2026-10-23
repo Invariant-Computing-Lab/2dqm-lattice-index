@@ -1,0 +1,11 @@
+family,state,n,mass_MeV,sigma_MeV,assignment_confirmed,analysis_role,source_note
+Upsilon_nS,Upsilon(1S),1,9460.4,0.1,True,primary,"PDG 2026 meson summary, p.194"
+Upsilon_nS,Upsilon(2S),2,10023.4,0.5,True,primary,"PDG 2026 meson summary, p.201"
+Upsilon_nS,Upsilon(3S),3,10355.1,0.5,True,primary,"PDG 2026 meson summary, p.206"
+Upsilon_nS,Upsilon(4S),4,10579.4,1.2,True,primary,"PDG 2026 meson summary, p.208"
+chi_b1_nP,chi_b1(1P),1,9892.78,0.4045985664828782,False,secondary,"PDG 2026 meson summary, p.199; J needs confirmation"
+chi_b1_nP,chi_b1(2P),2,10255.46,0.5462600113499065,False,secondary,"PDG 2026 meson summary, p.204; J needs confirmation"
+chi_b1_nP,chi_b1(3P),3,10513.4,0.7,False,secondary,"PDG 2026 meson summary, p.207; J needs confirmation"
+chi_b2_nP,chi_b2(1P),1,9912.21,0.4045985664828782,False,secondary,"PDG 2026 meson summary, p.200; J needs confirmation"
+chi_b2_nP,chi_b2(2P),2,10268.65,0.5462600113499065,False,secondary,"PDG 2026 meson summary, p.205; J needs confirmation"
+chi_b2_nP,chi_b2(3P),3,10524.0,0.8,False,secondary,"PDG 2026 meson summary, p.207; J needs confirmation"

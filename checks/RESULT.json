@@ -1,0 +1,20 @@
+{
+  "repo": "2dqm-lattice-index",
+  "recovery": "CP03R1",
+  "tests_executed": 1,
+  "passed": true,
+  "scope": "Original mathematical benchmark with archived results. Computational replay is not proof auditing, priority review or physical validation.",
+  "commands": [
+    {
+      "command": [
+        "python",
+        "code/run_all.py"
+      ],
+      "exit_code": 0,
+      "seconds": 11.062,
+      "stdout": "{\n  \"seed\": 20260812,\n  \"lattice\": {\n    \"index_match_rate\": 1.0,\n    \"max_gauge_index_change\": 0.0,\n    \"critical_t_grid\": 0.5105,\n    \"critical_gap\": 0.00016396660927985127\n  },\n  \"spectrum\": {\n    \"chi2\": 70359.15176941207,\n    \"dof\": 2,\n    \"p_value\": 0.0,\n    \"spacing_CV\": 0.42776348069666387,\n    \"R3\": 1.616219769916978,\n    \"R4\": 2.044284857172506,\n    \"spacings_GeV2\": [\n      10.96937939999998,\n      6.759548450000025,\n      4.695608349999986\n    ],\n    \"intrinsic_spacing_scatter_required\": 0.384\n  }\n}\n",
+      "stderr": ""
+    }
+  ],
+  "generated_result_hashes": {}
+}

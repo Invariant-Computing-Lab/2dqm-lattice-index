@@ -1,0 +1,5 @@
+state,n,R_observed,R_predicted_linear,deviation
+Upsilon(1S),1,0.0,0,0.0
+Upsilon(2S),2,1.0,1,0.0
+Upsilon(3S),3,1.616219769916978,2,-0.383780230083022
+Upsilon(4S),4,2.044284857172506,3,-0.9557151428274939
